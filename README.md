@@ -1,3 +1,3 @@
 # First-Repo
-Learning github 
+Learning github -
 This is a basic program to analyse working of github.
